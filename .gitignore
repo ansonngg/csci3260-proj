@@ -1,0 +1,4 @@
+.idea/
+cmake-build-*/
+/Csci3260Proj.*
+*.dll

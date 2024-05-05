@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.28)
-project(Csci3260Proj)
+project(Csci3260Project)
 
 set(CMAKE_CXX_STANDARD 14)
 
